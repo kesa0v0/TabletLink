@@ -1,0 +1,6 @@
+[submodule "ScreenCaptureLib"]
+	path = ScreenCaptureLib
+	url = https://github.com/kesa0v0/ScreenCaptureLib
+[submodule "TabletLink-Windows"]
+	path = TabletLink-Windows
+	url = https://github.com/kesa0v0/TabletLink-Windows
