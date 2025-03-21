@@ -4,3 +4,6 @@
 [submodule "TabletLink-Windows"]
 	path = TabletLink-Windows
 	url = https://github.com/kesa0v0/TabletLink-Windows
+[submodule "WindowsScreenCapture"]
+	path = WindowsScreenCapture
+	url = https://github.com/offerrall/WindowsScreenCapture
