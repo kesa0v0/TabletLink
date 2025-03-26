@@ -7,6 +7,3 @@
 [submodule "TabletLink-Android"]
 	path = TabletLink-Android
 	url = https://github.com/kesa0v0/TabletLink-Android
-[submodule "WebRtc.NET"]
-	path = WebRtc.NET
-	url = https://github.com/radioman/WebRtc.NET
